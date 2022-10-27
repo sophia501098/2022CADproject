@@ -1,0 +1,163 @@
+﻿  main.cpp
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(119,45): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(120,45): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(121,45): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(122,21): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(123,21): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(124,21): warning C4244: “参数”: 从“T”转换到“const unsigned __int64”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(135,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(136,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(137,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(138,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(140,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(141,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(142,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(143,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(145,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(146,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(147,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(148,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(150,12): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(151,12): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(152,12): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(153,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(154,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(155,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(364,1): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(366,1): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(277,27): warning C4101: “v2_2”: 未引用的局部变量
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(277,21): warning C4101: “v1_2”: 未引用的局部变量
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(344,27): warning C4101: “v2_2”: 未引用的局部变量
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(344,21): warning C4101: “v1_2”: 未引用的局部变量
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(383,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(395,16): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\Loader.h(403,16): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(67,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(68,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(72,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(73,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(74,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(75,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(83,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(125,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(134,21): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(135,42): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Downloads\HW2_张宇晴_3180102110\code\HW2\main.cpp(142,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  2 of 642 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HW2.vcxproj -> D:\Downloads\HW2_张宇晴_3180102110\code\x64\Release\HW2.exe
